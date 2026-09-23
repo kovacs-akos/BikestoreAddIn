@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Bikestore/Bikestore.csproj" />
+  <Project Path="BikestoreAddIn/BikestoreAddIn.csproj" />
+</Solution>
